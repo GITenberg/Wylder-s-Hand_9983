@@ -1,0 +1,38 @@
+_repo: Wylder-s-Hand_9983
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, Joseph Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, J. Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: 'Sheridan Le Fanu (1814-1873) was an Irish writer of Gothic tales and
+  mystery novels. He was the premier ghost story writer of the nineteenth century
+  and had a seminal influence on the development of this genre in the Victorian era.
+  In 1861 he became the editor and proprietor of the Dublin University Magazine and
+  he began exploiting double exposure: serializing in the Dublin University Magazine
+  and then revising for the English market: Wylder''s Hand, was published in this
+  way. "There was a little fair-haired child playing on the ground before the steps
+  as I whirled by ...'
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Wylder's Hand
+url: http://www.gutenberg.org/ebooks/9983
