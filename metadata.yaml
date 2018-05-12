@@ -1,5 +1,8 @@
 _repo: Wylder-s-Hand_9983
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Fanu, Joseph Sheridan
@@ -20,6 +23,8 @@ description: 'Sheridan Le Fanu (1814-1873) was an Irish writer of Gothic tales a
   and then revising for the English market: Wylder''s Hand, was published in this
   way. "There was a little fair-haired child playing on the ground before the steps
   as I whirled by ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9983#Wylder-s-Hand
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
